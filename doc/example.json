@@ -1,0 +1,24 @@
+{
+  "isFull": false,
+  "list": [
+    {
+      "title": "这里填写示例标题",
+      "description": "这里填写示例说明",
+      "code": "./base.js",
+      "scope": [
+        {
+          "name": "_AntdIconSelect",
+          "packageName": "@kne/current-lib_antd-icon-select",
+          "importStatement": "import * as _AntdIconSelect from \"@kne/antd-icon-select\""
+        },
+        {
+          "packageName": "@kne/current-lib_antd-icon-select/dist/index.css"
+        },
+        {
+          "name": "remoteLoader",
+          "packageName": "@kne/remote-loader"
+        }
+      ]
+    }
+  ]
+}
