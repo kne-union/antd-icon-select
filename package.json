@@ -1,6 +1,6 @@
 {
   "name": "@kne/antd-icon-select",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "用来选择@ant-design/icons中的一个Icon，也可以将选择结果转化为一个图标",
   "syntax": {
     "esmodules": true
